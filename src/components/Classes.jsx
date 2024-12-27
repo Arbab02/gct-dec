@@ -11,8 +11,8 @@ const Classes = () => {
       age: '3-5 Years',
       time: '9-10 AM',
       capacity: '30 Kids',
-      classImage: 'images/hero.png',
-      teacherImage: 'images/hero.png',
+      classImage: '/hero.png',
+      teacherImage: '/hero.png',
     },
     {
       title: 'Color Management',
@@ -21,8 +21,8 @@ const Classes = () => {
       age: '3-5 Years',
       time: '9-10 AM',
       capacity: '30 Kids',
-      classImage: 'images/hero.png',
-      teacherImage: 'images/hero.png',
+      classImage: '/hero.png',
+      teacherImage: '/hero.png',
     },
     {
       title: 'Athletic & Dance',
@@ -31,8 +31,8 @@ const Classes = () => {
       age: '3-5 Years',
       time: '9-10 AM',
       capacity: '30 Kids',
-      classImage: 'images/hero.png',
-      teacherImage: 'images/hero.png',
+      classImage: '/hero.png',
+      teacherImage: '/hero.png',
     },
     {
       title: 'Language & Speaking',
@@ -41,8 +41,8 @@ const Classes = () => {
       age: '3-5 Years',
       time: '9-10 AM',
       capacity: '30 Kids',
-      classImage: 'images/hero.png',
-      teacherImage: 'images/hero.png',
+      classImage: '/hero.png',
+      teacherImage: '/hero.png',
     },
     {
       title: 'Religion & History',
@@ -51,8 +51,8 @@ const Classes = () => {
       age: '3-5 Years',
       time: '9-10 AM',
       capacity: '30 Kids',
-      classImage: 'images/hero.png',
-      teacherImage: 'images/hero.png',
+      classImage: '/hero.png',
+      teacherImage: '/hero.png',
     },
     {
       title: 'General Knowledge',
@@ -61,8 +61,8 @@ const Classes = () => {
       age: '3-5 Years',
       time: '9-10 AM',
       capacity: '30 Kids',
-      classImage: 'images/hero.png',
-      teacherImage: 'images/hero.png',
+      classImage: '/hero.png',
+      teacherImage: '/hero.png',
     },
   ];
 
